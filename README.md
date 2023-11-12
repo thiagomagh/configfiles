@@ -1,2 +1,2 @@
 # configfiles
-All of my configs files
+All of my configs files.
